@@ -1,0 +1,51 @@
+{
+    "name": "Tower Battle #2",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "bug-arena": "github:riknoll/bug-arena"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.10",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "toolboxFilter": {
+        "namespaces": {
+            "paths": "hidden",
+            "angleutil": "hidden",
+            "sprites": "hidden",
+            "controller": "hidden",
+            "game": "hidden",
+            "music": "hidden",
+            "scene": "hidden",
+            "info": "hidden",
+            "loops": "hidden",
+            "fancyText": "hidden",
+            "transitions": "hidden",
+            "screenTransitions": "hidden",
+            "animation": "hidden",
+            "animations": "hidden",
+            "sound": "hidden",
+            "browserEvents": "hidden",
+            "images": "hidden",
+            "arrays": "hidden",
+            "console": "hidden",
+            "functions": "hidden",
+            "function": "hidden"
+        },
+        "blocks": {}
+    }
+}
