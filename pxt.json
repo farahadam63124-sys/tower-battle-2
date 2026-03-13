@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "bug-arena": "github:riknoll/bug-arena"
+        "bug-arena": "github:riknoll/bug-arena",
+        "Makey Makey Keymappings": "github:joylabz/makeymakey-makecode-arcade-extension#1.0.3"
     },
     "files": [
         "main.blocks",
